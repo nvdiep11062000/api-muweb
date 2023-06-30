@@ -5,7 +5,7 @@ import OldTrafford from "../pages/OldTrafford/OldTrafford";
 import Contact from "../pages/Contact/Contact";
 import Players from "../pages/Players/Players";
 import PlayerDetails from "../pages/PlayerDetails/PlayerDetails";
-import ScrollToTop from "../scrollToTop";
+import ScrollToTop from "../component/ScrollToTop";
 import Shop from "../pages/Shop/Shop";
 import ShopDetail from "../pages/ShopDetail/ShopDetail";
 import Cart from "../pages/Cart/Cart";
